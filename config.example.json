@@ -1,0 +1,9 @@
+{
+  "ldap_server": "ldaps://your-ldap-server:636",
+  "ldap_user": "CN=ldap_user,OU=ServiceAccounts,DC=example,DC=local",
+  "ldap_password": "your-password",
+  "base_dn": "OU=Users,DC=example,DC=local",
+  "email_server": "smtp.example.local:25",
+  "email_sender": "noreply@example.local",
+  "ldap_ca_cert": "/etc/ssl/certs/ca-certificates.crt"
+}
