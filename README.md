@@ -1,4 +1,4 @@
-# 🔐 Password Expiry Mail Notification Script for Active directory users
+# 🔐 Password Expiry Mail Notification Script for Active directory
 
 This script connects to an LDAP (LDAPS) directory and notifies users via email when their password is about to expire.
 
